@@ -1,1 +1,1 @@
-# Predicting-Fatality-in-a-Car-Accident
+Data is collected from 2 tables present in Iowa website and merged on case number. Data is imputed for missing values, removing columns with unary distribution, over sampled on target variable. The variables are binned into groups based on their distribution. I performed statistical tests and feature selection to come up with significant predictor variables. I built a regression model on the data which has an accuracy of 82%. Also, tested the performance of this model on test data.
